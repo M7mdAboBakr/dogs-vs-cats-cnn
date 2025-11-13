@@ -7,7 +7,7 @@ It includes a Jupyter Notebook for model training and a Streamlit web app for li
 
 ## 🔗 Links
 
-- 🎯 **Live App:** [Streamlit Link Here](YOUR_STREAMLIT_APP_LINK_HERE)  
+- 🎯 **Live App:** [Streamlit App](https://dogs-vs-cats-cnn.streamlit.app/)  
 - 📘 **Kaggle Notebook:** [Dogs vs Cats with CNN & VGG](https://www.kaggle.com/code/m7mdabobakr/dogs-vs-cats-with-cnn-vgg-for-beginners) *(Don’t forget to Upvote if you found it helpful!)*  
 - 📂 **Dataset:** [Kaggle Dogs vs Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats)
 
